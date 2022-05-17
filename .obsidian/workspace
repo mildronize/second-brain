@@ -1,0 +1,194 @@
+{
+  "main": {
+    "id": "7336fc426ee1ec54",
+    "type": "split",
+    "children": [
+      {
+        "id": "981fb148c867b16e",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Sub Page.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5fa281a92282cf40",
+    "type": "split",
+    "children": [
+      {
+        "id": "a4204768fb47024e",
+        "type": "tabs",
+        "dimension": 34.47204968944099,
+        "children": [
+          {
+            "id": "b25c11cbaa4af749",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Sub Page.md"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "cf25f60678dd4eb8",
+        "type": "tabs",
+        "dimension": 65.527950310559,
+        "children": [
+          {
+            "id": "44b2106a4bbed3e9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "48d49f9a75760a30",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 212
+  },
+  "right": {
+    "id": "c41d036a7a1191e3",
+    "type": "split",
+    "children": [
+      {
+        "id": "54bc61a8ccb8e304",
+        "type": "tabs",
+        "dimension": 44.82306684141546,
+        "children": [
+          {
+            "id": "be795ceea4da340f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "81b86e340bc29074",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "a90f44e541ea3af8",
+        "type": "tabs",
+        "dimension": 55.17693315858453,
+        "children": [
+          {
+            "id": "163a7daa78499a3d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Sub Page.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f07c8d94fbdef866",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Sub Page.md",
+                "linksCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ac1c2e5952695e60",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Sub Page.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": false
+                }
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 274.5
+  },
+  "active": "981fb148c867b16e",
+  "lastOpenFiles": [
+    "Sub Page.md",
+    "Home.md",
+    "efewf.md",
+    "Developer's Brain 1f63bb49f346486cbd00d78dccc516e0/ASP NET Core 4f477fd47b4d4619a4fd67089adce4f3/ASP NET Core Template Structure eb968e8e8d7749338f884857ffe95339.md",
+    "Developer's Brain 1f63bb49f346486cbd00d78dccc516e0/ASP NET Core 6 and authentication servers the real ead3482d256b49f19eed0e2dcb4c126a.md",
+    "Developer's Brain 1f63bb49f346486cbd00d78dccc516e0/ASP NET Core 4f477fd47b4d4619a4fd67089adce4f3.md",
+    "Developer's Brain 1f63bb49f346486cbd00d78dccc516e0/Articles 09423200990744cf91f321e5cd0354ad/ASP NET Core - Simpler ASP NET MVC Apps with Razor 0b73af76144045e397779e2c5c8c670d.md",
+    "Developer's Brain 1f63bb49f346486cbd00d78dccc516e0/Articles 09423200990744cf91f321e5cd0354ad/ASP NET Core - Feature Slices for ASP NET Core MVC 66ce7aa5895e404b915fdcbf263364d1.md",
+    "Developer's Brain 1f63bb49f346486cbd00d78dccc516e0/Articles 09423200990744cf91f321e5cd0354ad/Application Layer vs Domain Layer tapez@555 34f74d62f6a34279bfe3bc9fd2e30f0a.md",
+    "Developer's Brain 1f63bb49f346486cbd00d78dccc516e0/ASP NET Core 4f477fd47b4d4619a4fd67089adce4f3/ASP NET x Others 7b4fad78549c4edf835205559c1cbd32/Node js or NET C# for the next web application ab495fbd9e9e4ff19628a14ae65385a0/Untitled Database 60676bce576749449accee4d77e23609/Alternative languages to main language d466f67f574c49319ce9932b61055bd4.md"
+  ]
+}

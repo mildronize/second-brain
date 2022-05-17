@@ -1,0 +1,32 @@
+{
+  "showGettingStartedBanner": false,
+  "hasMigratedDailyNoteSettings": false,
+  "hasMigratedWeeklyNoteSettings": false,
+  "daily": {
+    "format": "",
+    "template": "Extras/Templates/Template - Daily.md",
+    "folder": "📅 Bullet Journal/Daily",
+    "enabled": true
+  },
+  "weekly": {
+    "format": "[Weekly ]gggg-[W]ww",
+    "template": "",
+    "folder": "📅 Bullet Journal/Weekly",
+    "enabled": true
+  },
+  "monthly": {
+    "format": "",
+    "template": "",
+    "folder": ""
+  },
+  "quarterly": {
+    "format": "",
+    "template": "",
+    "folder": ""
+  },
+  "yearly": {
+    "format": "",
+    "template": "",
+    "folder": ""
+  }
+}
