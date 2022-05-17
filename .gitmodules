@@ -1,0 +1,3 @@
+[submodule ".obsidian-site"]
+	path = .obsidian-site
+	url = https://github.com/mildronize/obsidian-site
